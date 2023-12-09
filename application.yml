@@ -1,4 +1,3 @@
-spring.application.name=github-config-server-demo
 #eureka configuration
 eureka.client.fetch-registry=true
 eureka.instance.prefer-ip-address=true
